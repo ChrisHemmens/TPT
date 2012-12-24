@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -355,5 +355,12 @@
        inkscape:export-filename="C:\Users\jolens\Documents\GitHub\TPT\Worksheets\Math_03_OA_4_MultiplicationUnknowns\Fish.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.60335469;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.20670952, 2.60335476;stroke-dashoffset:0"
+       id="rect2985"
+       width="50.695095"
+       height="50.695095"
+       x="576.1983"
+       y="324.45352" />
   </g>
 </svg>
