@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -361,6 +361,9 @@
        width="50.695095"
        height="50.695095"
        x="576.1983"
-       y="324.45352" />
+       y="324.45352"
+       inkscape:export-filename="C:\Users\jolens\Documents\GitHub\TPT\Worksheets\Math_03_OA_4_MultiplicationUnknowns\SquareBW.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
