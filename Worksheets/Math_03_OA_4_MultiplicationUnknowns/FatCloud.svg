@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   width="80.000000pt"
+   height="80.000000pt"
+   sodipodi:docname="Cloud.svg"
+   version="1.1">
+  <metadata
+     id="metadata12" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient912">
+      <stop
+         style="stop-color:#f3f3f3;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop913" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="0.37650406"
+         id="stop855" />
+      <stop
+         style="stop-color:#e6ffff;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop914" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient912"
+       id="radialGradient915" />
+    <linearGradient
+       xlink:href="#linearGradient912"
+       id="linearGradient854"
+       x1="64.41948"
+       y1="79.134604"
+       x2="-31.20402"
+       y2="25.731688"
+       gradientTransform="matrix(1.4029707,0,0,1.4211286,0,-47.782135)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.4980192"
+     inkscape:cx="28.184356"
+     inkscape:cy="72.318357"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:url(#linearGradient854);fill-rule:evenodd;stroke:#000000;stroke-width:1.76502562;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 48.996171,26.489518 C 47.958668,16.306579 39.185631,1.3820011 33.930828,4.1721242 27.350244,7.7951999 24.319102,19.510484 29.022229,28.341772 24.861109,22.727032 14.478948,17.896025 8.851615,37.457488 5.358433,52.029729 15.250525,61.146477 18.27673,60.068717 12.486132,58.680136 -1.7806601,82.426711 4.5717298,94.522803 12.398859,106.81812 30.328023,93.522481 31.115271,83.252794 29.368597,98.270267 49.289455,101.15336 49.782264,80.28144 c -1.421776,9.785658 12.791818,20.20066 19.549144,16.216125 8.469025,-4.119765 7.45073,-18.027808 6.448629,-22.26862 6.514141,1.484429 16.71374,5.165594 21.231799,-8.182617 C 100.16106,53.432461 98.288765,39.343692 94.234782,34.912032 89.817633,30.721505 84.99124,30.939885 79.361925,38.038013 83.828729,32.241236 81.073796,13.548443 76.597083,9.4419844 71.495048,4.7781011 65.365281,3.8678709 59.859869,6.1355036 55.323516,7.5841598 48.144478,15.211539 48.996171,26.489518 z"
+     id="path853"
+     sodipodi:nodetypes="cccccccccccccccc"
+     inkscape:export-filename="C:\Users\jolens\Documents\GitHub\TPT\Worksheets\Math_03_OA_4_MultiplicationUnknowns\CloudBW.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     inkscape:connector-curvature="0" />
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:format>image/svg+xml</dc:format>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
