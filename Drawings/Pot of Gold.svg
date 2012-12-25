@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
    version="1.0"
-   sodipodi:docname="Pot of Gold.svg"
+   sodipodi:docname="PotofGold.eps"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:modified="true">
   <defs
@@ -31,16 +31,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="128.17772"
+     inkscape:cx="107.82031"
      inkscape:cy="330.60964"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      width="990px"
      height="765px"
-     inkscape:window-width="1280"
-     inkscape:window-height="876"
-     inkscape:window-x="0"
-     inkscape:window-y="17"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      showgrid="false"
      inkscape:window-maximized="1" />
   <metadata
@@ -66,13 +66,26 @@
       <path
          id="path2170"
          d="M 481.34375,141.875 C 329.90557,141.875 207,173.24281 207,211.875 C 207,221.10016 214.01812,229.9015 226.75,237.96875 C 184.15493,278.3251 158.78125,328.93738 158.78125,383.875 C 158.78125,439.56997 184.86869,490.84416 228.53125,531.46875 C 221.86614,550.94589 195.2091,613.61534 204.25,622.65625 C 213.97709,632.38334 285.86878,600.7791 299.15625,597.21875 C 303.2463,596.12283 313.7285,594.50721 326.03125,592.46875 C 372.92477,611.65951 426.9212,622.59375 484.40625,622.59375 C 542.46841,622.59375 596.99937,611.42552 644.21875,591.875 C 658.06516,594.20089 670.08808,596.01983 674.5625,597.21875 C 687.84995,600.7791 759.74166,632.38334 769.46875,622.65625 C 779.16911,612.95589 747.76628,541.44636 744.0625,527.875 C 785.44969,487.83758 810.03124,437.94694 810.03125,383.875 C 810.03125,327.83698 783.64936,276.30526 739.5,235.5625 C 749.9642,228.1564 755.6875,220.19736 755.6875,211.875 C 755.6875,173.24281 632.78192,141.87501 481.34375,141.875 z "
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path2178"
          d="M 269.20565,423.28967 C 269.20565,430.25973 248.38843,435.91658 222.73863,435.91658 C 197.08884,435.91658 176.27161,430.25973 176.27161,423.28967 C 176.27161,416.31962 197.08884,410.66277 222.73863,410.66277 C 248.38843,410.66277 269.20565,416.31962 269.20565,423.28967 z "
          style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
          transform="matrix(5.0208696,0,0,3.2147059,-637.00384,-1154.4862)" />
     </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4.29398349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3006"
+       sodipodi:cx="329.51175"
+       sodipodi:cy="50.59005"
+       sodipodi:rx="260.2153"
+       sodipodi:ry="53.033009"
+       d="M 576.39495,67.347538 A 260.2153,53.033009 0 0 1 85.595759,69.06443"
+       transform="matrix(1.0531875,0,0,1.2874002,145.68929,147.06527)"
+       sodipodi:start="0.32149174"
+       sodipodi:end="2.7857757"
+       sodipodi:open="true" />
   </g>
   <g
      inkscape:groupmode="layer"
