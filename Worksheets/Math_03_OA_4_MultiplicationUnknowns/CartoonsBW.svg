@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="2.8"
      inkscape:cx="239.19002"
      inkscape:cy="676.53958"
      inkscape:document-units="px"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -602,7 +602,8 @@
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\jolens\Documents\GitHub\TPT\Worksheets\Math_03_OA_4_MultiplicationUnknowns\GreenArrow.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       id="path54" />
     <rect
        style="fill:#ffffff;stroke:#ffffff;stroke-width:3.18478584;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect5864-3-0"
@@ -1650,5 +1651,24 @@
        height="52.312412"
        x="-40.285713"
        y="942.04974" />
+    <g
+       id="g3188"
+       style="fill:#000000">
+      <rect
+         ry="7.8701673"
+         rx="0"
+         y="350.14828"
+         x="29.785715"
+         height="19.356766"
+         width="37.142857"
+         id="rect3163"
+         style="fill:#000000;stroke:#000000;stroke-width:1.64619172000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3165"
+         d="M 68.15625,335 67.763393,358.21875 68.15625,381.4375 91.375,358.21875 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
   </g>
 </svg>
