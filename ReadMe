@@ -1,0 +1,26 @@
+Getting Started:
+
+1. Drop the Scribus template files to the Scribus template directory (ex. C:\Users\jolens\AppData\Roaming\Scribus\templates)
+
+	- Kids Logo 2.eps
+	- Rounded Title Box.eps
+	- template.xml
+	- Worksheet Template.png
+	- Worksheet Template.sla
+	- Worksheet Templatetn.png
+
+2. Launch Scribus and select New from Template > Own Templates > Select your template.
+
+3. At the bottom of the page, write the targeted Core Value for this worksheet/handout.
+
+4. Cut the Main Title box and the Subtitle box.
+
+5. Click Page > Convert to Master Page and name your master page.
+
+6. Undo the cut action of the Main Title box and the Subtitle box.
+
+
+
+Adding Multile Pages to the Worksheet
+
+Click Page > Insert and make sure the Master Page selected is the one you made out of the template.
