@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.89316"
+   height="81.24334"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2991">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect2993"
+         width="367.14285"
+         height="74.285721"
+         x="110.57143"
+         y="140.93361" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="483.93909"
+     inkscape:cy="-154.58222"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.383524,-93.719777)">
+    <path
+       style="fill:none;stroke:none"
+       d="m 30.494947,144.19662 c 0,0 139.685893,100.27541 223.189103,52.06481 83.50322,-48.2106 166.55862,-86.81405 226.44919,16.91945 59.89056,103.7335 144.15247,-12.85715 144.15247,-12.85715 l 60,-57.96155 37.14286,-28.57143"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccc"
+       clip-path="url(#clipPath2991)"
+       transform="matrix(0.71984514,0,0,0.6031078,17.396372,45.162661)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A Safe Place to Fall;-inkscape-font-specification:A Safe Place to Fall"
+       id="text3013"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2987"
+         id="textPath3017"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:A Year Without Rain;-inkscape-font-specification:A Year Without Rain">Hidden Numbers</textPath></text>
+  </g>
+</svg>
